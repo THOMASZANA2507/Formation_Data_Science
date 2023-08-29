@@ -1,0 +1,27 @@
+[
+    {
+        "ville": "Bamako",
+        "population": "2187526",
+        "area": "105.40"
+    },
+    {
+        "ville": "Sikasso",
+        "population": "863310",
+        "area": "240.60"
+    },
+    {
+        "ville": "Segou",
+        "population": "516092",
+        "area": "47.87"
+    },
+    {
+        "ville": "Mopti",
+        "population": "479553",
+        "area": "118.30"
+    },
+    {
+        "ville": "Gao",
+        "population": "340017",
+        "area": "71.92"
+    }
+]
